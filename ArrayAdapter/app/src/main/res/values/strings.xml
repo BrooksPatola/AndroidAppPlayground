@@ -1,0 +1,21 @@
+<resources>
+<string name="app_name">Mystery Button</string>
+
+<string-array name="topics">
+
+    <item>activity</item>
+    <item>AVD</item>
+    <item>ART</item>
+    <item>Dalvik</item>
+    <item>intent</item>
+    <item>intent filter</item>
+    <item>explicit intent</item>
+    <item>implicit intent</item>
+    <item>LogCat</item>
+    <item>bundle</item>
+    <item>Gradle</item>
+    <item>Android Device Monitor</item>
+    <item>SDK manager</item>
+    <item>minSdkVersion</item>
+</string-array>
+</resources>
